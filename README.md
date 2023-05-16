@@ -1,2 +1,2 @@
-# oriduct preview card component 
+# product preview card component 
 # frontend Mentor challenge
